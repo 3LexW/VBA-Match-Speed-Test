@@ -12,7 +12,7 @@ Using the following Excel file
 | 3   | 59998 | R3  | R59998 |
 | ... | ...   | ... | ...    |
 
-The goal is to complete 60,000 rows of matching, using the following methods as parameter
+The goal is to complete 10,000 rows of matching, using the following methods as parameter
 + Set Range
 + Set Variant
 + Use Dictionary Object
